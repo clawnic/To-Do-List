@@ -1,0 +1,30 @@
+.App{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 5rem;
+    
+    position: relative;
+    justify-content: space-between;
+    
+}
+
+.task-in{
+    width: 100%;
+
+    padding: 5rem 0rem 0rem 0rem;
+    margin-top: 100px;
+    position: relative;
+}
+
+.task-out{
+    margin: 50px 0px 0px 0px;
+    position: relative;
+    
+    height: auto;
+    width: auto;
+    
+    display: flex;
+    flex-direction: column;
+}
